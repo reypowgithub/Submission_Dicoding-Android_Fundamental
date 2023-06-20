@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Submission1</string>
+    <string name="username">Username</string>
+    <string name="find">cari</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="Search">Search</string>
+    <string name="title_search">Find User Github</string>
+    <string name="splash_name">GITHUB USER PLATFORM</string>
+    <string name="image_splashscreen">Image_SplashScreen</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="header_main">header</string>
+    <string name="search_main">Search</string>
+    <string name="imagev_username">imagev_username</string>
+    <string name="type_user">Type user</string>
+
+
+</resources>

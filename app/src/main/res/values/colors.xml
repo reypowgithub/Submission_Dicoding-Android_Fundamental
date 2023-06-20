@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bata_200">#cc0022</color>
+    <color name="bata_500">#8f0029</color>
+    <color name="bata_700">#cc3600</color>
+    <color name="purple_200">#cc00b8</color>
+    <color name="purple_700">#8f0081</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="old_red">#B60000</color>
+</resources>
